@@ -1,4 +1,4 @@
-# my_first_project
+# ckecklist project
 A small project that implements the checklist based on Gin and Grom frame
 
 ## front-end
