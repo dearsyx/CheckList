@@ -1,5 +1,5 @@
 # ckecklist project
-A small project that implements the checklist based on Gin and Grom frame
+A small project that implements the checklist based on Gin and Gorm frame
 
 ## front-end
 The front-end part of the project is provided by Q1mi, see details：
